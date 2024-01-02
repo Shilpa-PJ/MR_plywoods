@@ -476,8 +476,8 @@ a:focus {
   border-radius: 35px;
   color: #ffffff;
   margin: 35px auto 0 auto;
-  -webkit-box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
-          box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
+  -webkit-box-shadow: 0 0 35px 0 #f2e6dd;
+          box-shadow: 0 0 35px 0 #f2e6dd;
 }
 
 .about_section .about_container .detail-box a:hover {
@@ -682,7 +682,7 @@ a:focus {
   height: 75px;
   border-radius: 100%;
   text-align: center;
-  background-color: #63f74f;
+  background-color: #f2e6dd;
   color: #ffffff;
   display: -webkit-box;
   display: -ms-flexbox;
